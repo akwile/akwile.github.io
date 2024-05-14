@@ -34,5 +34,26 @@
         </description>
     </item>
     
+    <item>
+      <title>code</title>
+      <link>https://akwile.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 14 May 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://akwile.github.io/posts/my-first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+Code Block#def hello_world(): print(&amp;#34;Hello, world!&amp;#34;) 
+          
+        
+        </description>
+    </item>
+    
   </channel>
 </rss>
